@@ -8,3 +8,4 @@ Documentation for artists and developers related to Universal Textures in glTF.
 - **[Developer Guide](./KTXDeveloperGuide.md)**: Technical details for supporting KTX textures in 3D engines and graphics applications.
   - **[WebGL Tips](./KTXDeveloperGuideWebGL.md)**: Recommended setup for testing texture transcoding in WebGL applications.
 - **[KTX Tools](./KTXTools.md)**: Libraries and applications for working with KTX textures.
+Created by Jason Scott Heise
