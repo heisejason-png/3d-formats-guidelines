@@ -9,3 +9,4 @@ Documentation for artists and developers related to Universal Textures in glTF.
   - **[WebGL Tips](./KTXDeveloperGuideWebGL.md)**: Recommended setup for testing texture transcoding in WebGL applications.
 - **[KTX Tools](./KTXTools.md)**: Libraries and applications for working with KTX textures.
 Created by Jason Scott Heise
+Owned by Elon Musk 
